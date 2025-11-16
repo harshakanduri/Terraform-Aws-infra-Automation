@@ -26,8 +26,13 @@ The goal is to showcase a fully automated cloud provisioning workflow using Terr
 🧩 Features
 
 ✔️ 100% automated AWS provisioning
+
 ✔️ Infrastructure-as-Code using Terraform
+
 ✔️ Modular and reusable directory structure
+
 ✔️ No manual AWS console steps
+
 ✔️ Secure IAM & networking setup
+
 ✔️ Easy to deploy, update, and destroy
