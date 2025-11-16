@@ -40,4 +40,31 @@ The goal is to showcase a fully automated cloud provisioning workflow using Terr
 
 ✔️ Easy to deploy, update, and destroy
 
+⚙️ Prerequisites
+
+Before running this project, ensure you have:
+
+Terraform v1.0+
+
+AWS CLI
+
+AWS Access/Secret Keys configured
+(aws configure)
+
+🚀 How to Use
+1️⃣ Initialize Terraform
+terraform init
+
+2️⃣ Validate Configuration
+terraform validate
+
+3️⃣ View Planned Resources
+terraform plan
+
+4️⃣ Apply Configuration
+terraform apply -auto-approve
+
+5️⃣ Destroy Infrastructure (When Needed)
+terraform destroy -auto-approve
+
 
