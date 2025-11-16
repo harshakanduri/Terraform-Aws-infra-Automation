@@ -2,6 +2,8 @@
 
 This project demonstrates end-to-end AWS infrastructure automation using Terraform.
 All AWS resources are created, configured, and managed using IaC (Infrastructure as Code) — no manual setup required.
+
+Example: What i did >
 ![alt text](https://github.com/harshakanduri/Terraform-Aws-infra-Automation/blob/main/Terraform%20s3%20automation/Screenshots%20what%20i%20did/Screenshot%20(1).png)
 
 📌 Project Overview
@@ -37,4 +39,5 @@ The goal is to showcase a fully automated cloud provisioning workflow using Terr
 ✔️ Secure IAM & networking setup
 
 ✔️ Easy to deploy, update, and destroy
+
 
