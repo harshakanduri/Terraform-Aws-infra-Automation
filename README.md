@@ -53,18 +53,24 @@ AWS Access/Secret Keys configured
 
 🚀 How to Use
 1️⃣ Initialize Terraform
+
 terraform init
 
 2️⃣ Validate Configuration
+
 terraform validate
 
 3️⃣ View Planned Resources
+
 terraform plan
 
 4️⃣ Apply Configuration
+
 terraform apply -auto-approve
 
 5️⃣ Destroy Infrastructure (When Needed)
+
 terraform destroy -auto-approve
+
 
 
