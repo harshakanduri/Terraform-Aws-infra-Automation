@@ -52,6 +52,7 @@ AWS Access/Secret Keys configured
 (aws configure)
 
 🚀 How to Use
+
 1️⃣ Initialize Terraform
 
 terraform init
@@ -71,6 +72,7 @@ terraform apply -auto-approve
 5️⃣ Destroy Infrastructure (When Needed)
 
 terraform destroy -auto-approve
+
 
 
 
